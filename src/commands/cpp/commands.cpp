@@ -1,0 +1,5 @@
+#include "ieee488_2.cpp"
+#include "scpi_memory.cpp"
+#include "scpi_system.cpp"
+#include "scpi_source_function.cpp"
+#include "scpi_source_safety.cpp"
